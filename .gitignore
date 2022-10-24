@@ -1,0 +1,10 @@
+app/scripts/pestomo_utils.py
+app/scripts/notebooks
+app/html
+airflow/dags/scripts
+airflow/logs
+airflow/plugins
+airflow/sql
+airflow/.env
+*.pyc
+*.ipynb
